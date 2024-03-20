@@ -1,2 +1,2 @@
-Entrega do Desafio de Projeto DIO - 
+Entrega do Desafio Projeto DIO - 
 Publicado no Power BI Service
